@@ -1,0 +1,9 @@
+﻿<Application x:Class="De_On_Tap_Kttx2_Lan1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:De_On_Tap_Kttx2_Lan1"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
